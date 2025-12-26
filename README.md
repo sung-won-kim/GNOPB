@@ -53,7 +53,7 @@ Once authenticated, training metrics and result plots will be automatically logg
 ---
 ## 📂 Data Setup
 
-To comply with GitHub's file size limits, the `data` folder has been compressed and split into multiple parts (`data.tar.gz.aa`, `data.tar.gz.ab`).
+To comply with GitHub's file size limits, the `data` folder has been compressed and split into multiple parts (`data.tar.gzaa`, `data.tar.gzab`).
 
 Before running any scripts, you must **recombine and extract** these files. Run the following command in the root directory:
 
