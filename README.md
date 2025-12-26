@@ -58,7 +58,7 @@ To comply with GitHub's file size limits, the `data` folder has been compressed 
 Before running any scripts, you must **recombine and extract** these files. Run the following command in the root directory:
 
 ```bash
-cat data.tar.gz.* | tar xvzf -
+cat data.tar.* | tar xvzf -
 ```
 ---
 
