@@ -111,7 +111,7 @@ if __name__ == '__main__':
     def parse_args():
         parser = argparse.ArgumentParser()
 
-        parser.add_argument("--model", type=str, default='mlp_timeadded_pinn')
+        parser.add_argument("--model", type=str, default='mlp_pinn')
         parser.add_argument("--num_layers", type=int, default=3)
         parser.add_argument("--batch_size", type=int, default=1)
         parser.add_argument("--hidden_dim", type=int, default=128)
