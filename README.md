@@ -51,6 +51,16 @@ We use **Weights & Biases (WandB)** for real-time experiment tracking and result
 Once authenticated, training metrics and result plots will be automatically logged to your WandB dashboard.
 
 ---
+## 📂 Data Setup
+
+To comply with GitHub's file size limits, the `data` folder has been compressed and split into multiple parts (`data.tar.gz.aa`, `data.tar.gz.ab`).
+
+Before running any scripts, you must **recombine and extract** these files. Run the following command in the root directory:
+
+```bash
+cat data.tar.gz.* | tar xvzf -
+```
+---
 
 ## 🚀 Reproducing Results
 
