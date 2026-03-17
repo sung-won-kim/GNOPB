@@ -1,6 +1,6 @@
 # Physics-Embedded Graph Neural Operator for Interaction-Controlled Colloidal Aggregation
 
-**Published in [Water Research](https://www.sciencedirect.com/journal/water-research)**
+**Published in [Water Research](https://www.sciencedirect.com/journal/water-research)** (2026)
 
 This repository contains the official PyTorch implementation of the paper **"Physics-Embedded Graph Neural Operator for Interaction-Controlled Colloidal Aggregation"**.
 
