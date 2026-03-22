@@ -11,7 +11,7 @@
 <sup>b</sup> Graduate School of Data Science, KAIST, Daejeon, Republic of Korea  
 <sup>c</sup> Department of Industrial and Systems Engineering, KAIST, Daejeon, Republic of Korea  
 
-<sup>*</sup> These authors contributed equally to this work
+<sup>*</sup> These authors contributed equally to this work  
 <sup>✉</sup> Corresponding authors
 
 ---
