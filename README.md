@@ -6,7 +6,7 @@ This repository contains the official PyTorch implementation of the paper **"Phy
 
 ## 📖 Overview
 
-**GNOPB** (Graph Neural Operator for Population Balance) is a deep learning surrogate model designed to predict colloidal aggregation dynamics. Unlike standard black-box models or physics-informed neural networks (PINNs) that rely on heavy loss-term regularization, GNOPB embeds **Brownian transport physics directly into the graph architecture**.
+**GNOPB** (Graph Neural Operator for Population Balance) is a deep learning surrogate model designed to predict colloidal aggregation dynamics. Unlike standard black-box models or physics-informed neural networks (PINNs) that rely on heavy loss-term regularization, GNOPB embeds **Brownian perikinetic particle collision physics directly into the graph architecture**.
 
 **Key Features:**
 * **Physics-Embedded Graph:** Particle size classes are represented as nodes, with Brownian collision kernels encoded into edge features to strictly follow transport physics.
@@ -94,13 +94,18 @@ sh table2_phyloss.sh
 
 ## 📝 Citation
 
-This paper has been published in **Water Research**. If you find this work useful, please cite:
+This paper has been published in **Water Research**. If you find this work useful, please cite: 
 
 ```bibtex
-@article{gnopb2026,
-  title={Physics-Embedded Graph Neural Operator for Interaction-Controlled Colloidal Aggregation},
-  journal={Water Research},
-  year={2026}
+@article{CHOE2026125773,
+title = {Physics-Embedded Graph Neural Operator for Interaction-Controlled Colloidal Aggregation},
+journal = {Water Research},
+pages = {125773},
+year = {2026},
+issn = {0043-1354},
+doi = {https://doi.org/10.1016/j.watres.2026.125773},
+url = {https://www.sciencedirect.com/science/article/pii/S0043135426004550},
+author = {Yongjoon Choe and Sungwon Kim and Susan E. Burns and Chanyoung Park},
 }
 ```
 
