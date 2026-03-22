@@ -5,7 +5,7 @@
 
 ### ✍️ Authors
 
-**Yongjoon Choe**<sup>a,\*</sup>, **Sungwon Kim**<sup>b,\*</sup>, **Susan E. Burns**<sup>a,✉</sup>, **Chanyoung Park**<sup>c,✉</sup>
+**Yongjoon Choe**<sup>a,\*</sup>, **Sungwon Kim**<sup>b,\*</sup>, **Susan E. Burns**<sup>a,✉</sup>, **Chanyoung Park**<sup>b,c,✉</sup>
 
 <sup>a</sup> School of Civil and Environmental Engineering, Georgia Institute of Technology, 790 Atlantic Drive, N.W., Atlanta, GA, 30332-0355, Georgia  
 <sup>b</sup> Graduate School of Data Science, KAIST, Daejeon, Republic of Korea  
