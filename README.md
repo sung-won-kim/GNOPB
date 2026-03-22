@@ -1,7 +1,20 @@
 # Physics-Embedded Graph Neural Operator for Interaction-Controlled Colloidal Aggregation
 
 **Published in [Water Research](https://www.sciencedirect.com/journal/water-research)** (2026)
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0043135426004550)
 
+### ✍️ Authors
+
+**Yongjoon Choe**<sup>a,\*</sup>, **Sungwon Kim**<sup>b,\*</sup>, **Susan E. Burns**<sup>a,✉</sup>, **Chanyoung Park**<sup>c,✉</sup>
+
+<sup>a</sup> School of Civil and Environmental Engineering, Georgia Institute of Technology, 790 Atlantic Drive, N.W., Atlanta, GA, 30332-0355, Georgia  
+<sup>b</sup> Graduate School of Data Science, KAIST, Daejeon, Republic of Korea  
+<sup>c</sup> Department of Industrial and Systems Engineering, KAIST, Daejeon, Republic of Korea  
+
+<sup>*</sup> These authors contributed equally to this work
+<sup>✉</sup> Corresponding authors
+
+---
 This repository contains the official PyTorch implementation of the paper **"Physics-Embedded Graph Neural Operator for Interaction-Controlled Colloidal Aggregation"**.
 
 ## 📖 Overview
@@ -108,5 +121,3 @@ url = {https://www.sciencedirect.com/science/article/pii/S0043135426004550},
 author = {Yongjoon Choe and Sungwon Kim and Susan E. Burns and Chanyoung Park},
 }
 ```
-
-> **Note:** The full bibliographic details (volume, pages, DOI) will be updated once available.
